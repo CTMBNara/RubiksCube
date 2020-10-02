@@ -1,10 +1,3 @@
-//
-//  cube.hpp
-//  RubiksCube
-//
-//  Created by Danil on 02.10.2020.
-//
-
 #ifndef cube_hpp
 #define cube_hpp
 
